@@ -1,4 +1,4 @@
-# Post-picture-from-anroid-to-server
+# Post-picture-from-android-to-server
 Step Post: 
 1. Using volley library for upload image data from android
 2. Convert image to base64
